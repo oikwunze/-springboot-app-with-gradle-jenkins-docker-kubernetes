@@ -1,28 +1,5 @@
 # Installing Kubernetes using "Kubeadm" on "Ubuntu" 
 
-
-
-***************************************************************************************************
-*                                                                                                 *     
-* Subject: Installing Kubernetes using "Kubeadm" on "Ubuntu"                                      *
-*                                                                                                 *
-* Author: Okechukwu Ikwunze                                             *
-*                                                                                                 *
-* Created On: Feb 2021                                                                            *
-*                                                                                                 *                                                       *
-*                                                                                                 *
-* Reference:                                                                                      *
-* ----------                                                                                      *
-* https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/          *
-* https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/   *
-* https://kubernetes.io/docs/setup/production-environment/container-runtimes/#docker              *
-*                                                                                                 *
-***************************************************************************************************
-
-
-***************************************************************************************************
-
-
 0. Provisioning Nodes and Firewalls:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
